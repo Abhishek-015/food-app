@@ -3,7 +3,7 @@ A Food-App that gives you detailed description about the searched recipe , ingre
 
 > FOOD APP created with HTML, CSS & JS.
 
-> Live demo 
+> Live demo https://food-hunger.netlify.app/
 
 
 ## Sample Snapshot
