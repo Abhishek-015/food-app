@@ -8,25 +8,27 @@ A Food-App that gives you detailed description about the searched recipe , ingre
 
 ## Sample Snapshot
 
+### Home Page
+
+![Screenshot (104)](https://user-images.githubusercontent.com/87438535/153698449-5a28f32d-77f7-46d7-bde3-67b0e9b40912.png)
 
 ### Search food
 
-
-![Screenshot (109)](https://user-images.githubusercontent.com/87421798/153414998-0597d8de-c839-4d97-a03e-67bb111e2ba6.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/87438535/153698635-6e65ff94-81a4-4fbc-ba28-176624599554.png)
 
 
 
 ### Description
 
 
-![fdesc](https://user-images.githubusercontent.com/87421798/153406891-aaf743ce-97be-46e3-aca2-da84b52302ba.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/87438535/153698678-928ebd66-5106-4d6b-af98-f12a59cf38b7.png)
 
 
 
 ### Get Recipe of the day
 
 
-![frecpe](https://user-images.githubusercontent.com/87421798/153406913-bcfe8454-0e7e-4205-8642-d58907161b0e.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/87438535/153698709-ff4286fa-c25f-4ad5-a95a-5a8e69bf3e0e.png)
 
 
 
